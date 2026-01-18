@@ -1,3 +1,13 @@
+---
+title: MathPulse API
+emoji: 🧮
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # MathPulse AI - ML Backend
 
 Python backend providing ML-powered educational features using Hugging Face.
